@@ -1115,7 +1115,7 @@ const anzhiyu = {
       "取消"
     );
     travellingsTimer = setTimeout(function () {
-      window.open("https://link3.cc/fnyun", "_blank");
+      window.open("https://www.www.www3", "_blank");
     }, "5000");
   },
 
