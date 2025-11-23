@@ -37,6 +37,31 @@
     
     
     <entry>
+      <title>常见问题汇总FAQ</title>
+      <link href="/fncloud/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BBFAQ/"/>
+      <url>/fncloud/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BBFAQ/</url>
+      
+        <content type="html"><![CDATA[<div class="clash-macos-guide">  <style>    .clash-macos-guide { font-family: sans-serif; line-height: 1.6; }    .clash-macos-guide h1, .clash-macos-guide h2 { color: #2a9d8f; }    .clash-macos-guide ul { margin-bottom: 20px; }    .clash-macos-guide .warning { color: #e76f51; font-weight: bold; }  </style>  <h1>常见问题及解决方法指南</h1>  <h2>1. 导入订阅时报错</h2>  <ul>    <li><strong>关键词包含 proxy、切换配置</strong>：说明当前软件版本不兼容，请在本官网文档更新或更换版本。</li>    <li><strong>包含 `get...EOF` 报错</strong>：请访问官网重新复制订阅链接进行导入。注意关闭其他 VPN，尝试切换 Wi-Fi 或流量，或重启设备。也可将订阅链接复制到浏览器打开后，再次导入。</li>    <li><strong>关键词包含 error sending、远程主机、连接被关闭</strong>：关闭代理软件的代理设置，断开网络并重新连接。若无效，请清空软件的代理设置，并重启设备。</li>    <li><strong>网络问题相关导入报错</strong>：尝试使用订阅转换工具：(https://sub.2c.lol/)（一般不推荐）</li>  </ul>  <h2>2. 大量节点无法正常使用</h2>  <ul>    <li>首先尝试更新订阅或参考官网教程重新导入获取最新节点信息。</li>    <li><strong>常见软件更新订阅步骤：</strong></li>    <ul>      <li>Clash for Android：打开 Clash → 配置 → 点击右上角的刷新按钮</li>      <li>Clash for Windows：打开 Clash → 配置 → 右上角点击更新全部</li>      <li>ClashX：点击拓展坞图标 → 配置 → 托管配置 → 更新</li>      <li>Shadowrocket：打开小火箭 → 点击右下角设置 → 订阅 → 勾选「打开时更新」和「后台更新」</li>      <li>v2rayN：打开软件 → 点击左上角更新 → 更新订阅</li>      <li>v2rayNG：打开软件 → 点击右上角三个点 → 更新订阅</li>    </ul>    <li>若更新无效，可尝试：重启设备、路由器、光猫或切换 Wi-Fi 和流量。</li>    <li>如果仍无法解决，请尝试订阅转换，或联系官网工单获取帮助。</li>  </ul>  <h2>3. 付款完毕后订单仍显示待支付</h2>  <ul>    <li>支付成功但显示未支付时，请耐心等待到账，可能存在延迟。</li>    <li>如果长时间未到账，请不要关闭订单，并联系官网客服反馈。</li>  </ul>  <h2>4. 关于不限时套餐</h2>  <ul>    <li>不限时套餐不可叠加流量，重复购买会顶掉之前的订阅 后果自负。</li>  </ul>  <h2>5. 佣金到账时间</h2>  <ul>    <li>佣金会秒到账，并且仅能在官网个人中心用于消费。</li>  </ul>  <h2>6. 电脑如何关闭代理</h2>  <ul>    <li>请根据需要在代理软件设置中关闭相关代理模式，或直接关闭系统代理设置。</li>  </ul>  <h2>7. 关于延迟</h2>  <ul>    <li>延迟仅供参考，并不代表实际速度。得出这个数值是多方便综合 并非线路本身</li>  </ul>  <h2>8. 电脑端 Clash 开机无网络</h2>  <ul>    <li>请关闭 Clash 设置中的「系统代理」，然后重启电脑。</li>    <li>确保下次关机前先关闭系统代理设置，或者启用开机自启动。</li>    <li>如果仍无法连接，请尝试在系统网络设置中清空手动代理设置。</li>  </ul>  <h2>9. 支付方式无法使用</h2>  <ul>    <li>尝试重新下单或使用其他支付方式，如果依然无法支付，联系客服手动开通。</li>  </ul>  <h2>10. 部分网站/服务无法使用</h2>  <ul>    <li>可能是网站限制了访问区域，或节点限制了某些服务（如禁止访问极端内容或磁力下载）。</li>    <li>将加速器模式 改成代理 / 全局 再试</li>    <li>还不行的话请自行查找解决方法，或联系官网客服。</li>  </ul>  <h2>11. 退款问题</h2>  <ul>    <li>由于商品性质，特殊商品无法提供退换服务，请在购买前谨慎考虑。</li>  </ul>  <h2>12. 工单问题</h2>  <ul>    <li>工单回复时间不定，请耐心等待，并提供清晰的问题描述，避免情绪化表达。</li>    <li>问题描述不清晰时可能得不到满意答复，严重时会封禁账号。</li>  </ul>  <h2>13. 代理软件下载问题</h2>  <ul>    <li>GitHub 下载速度缓慢正常，可以使用已连接代理的设备下载并转移安装文件。</li>  </ul>  <h2>14. 优惠问题</h2>  <ul>    <li>优惠不可强求，错过时无法补差或退款，请避免对此提出要求。</li>  </ul>  <h2>15. Linux及路由器教程问题</h2>  <ul>    <li>请通过网上搜索相关教程解决使用问题，或参考其他论坛及社区。</li>  </ul>  <h2>16. IP属地无法更改问题</h2>  <ul>    <li>某些应用（如 TikTok）有特殊的 IP 属地检测方式，无法更改时请勿强求。</li>  </ul>  <h2>17. TikTok 使用问题</h2>  <ul>    <li>TikTok 会限制国内运营商，建议尝试更换 SIM 卡，使用破解版，或使用网页版。</li>      <ul>    <li><a href="https://cdn.fny6.top/productinfo-76.html" style="  display: block;  width: fit-content;  margin: px auto;  padding: 10px 20px;  background-color:rgb(3, 1, 10);  color: #ffffff;  text-decoration: none;  border-radius: 8px;  font-weight: bold;  text-align: center;">免拔卡TikTok👉点击下载👈</a><li>网页版TikTok：➡️ <a href="https://tiktok.com">点击前往</a></li>  </ul>  <h2>18. 续费与重置问题</h2>  <ul>    <li>重置流量包和续费不同，重置仅在流量大于 80% 时有效，且清空当前周期流量。</li>    <li>续费仅延长有效期，不会清空当前流量。</li>  </ul>    <h2>19. 大量扣费问题</h2>  <ul>    <li>请检查流量明细，若有可疑流量记录，请重置订阅链接以防泄露。</li>    <li>若扣费异常，请检查代理软件设置，避免因分流问题导致的无端扣费。</li>  </ul><script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="9196dd5e-20d3-4a1a-9244-3cc3d7df4268";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 常见问题 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 常见问题及解决方法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>蜂鸟海外:商场全球区苹果ID &amp; 全球软件账号</title>
       <link href="/fncloud/%E5%85%A8%E7%90%83%E5%8C%BA%E8%8B%B9%E6%9E%9CID%20&amp;%20%E5%85%A8%E7%90%83%E8%BD%AF%E4%BB%B6%E8%B4%A6%E5%8F%B7/"/>
       <url>/fncloud/%E5%85%A8%E7%90%83%E5%8C%BA%E8%8B%B9%E6%9E%9CID%20&amp;%20%E5%85%A8%E7%90%83%E8%BD%AF%E4%BB%B6%E8%B4%A6%E5%8F%B7/</url>
@@ -58,31 +83,6 @@
             <tag> 软件账号 </tag>
             
             <tag> 全球区苹果ID </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>常见问题汇总FAQ</title>
-      <link href="/fncloud/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BBFAQ/"/>
-      <url>/fncloud/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BBFAQ/</url>
-      
-        <content type="html"><![CDATA[<div class="clash-macos-guide">  <style>    .clash-macos-guide { font-family: sans-serif; line-height: 1.6; }    .clash-macos-guide h1, .clash-macos-guide h2 { color: #2a9d8f; }    .clash-macos-guide ul { margin-bottom: 20px; }    .clash-macos-guide .warning { color: #e76f51; font-weight: bold; }  </style>  <h1>常见问题及解决方法指南</h1>  <h2>1. 导入订阅时报错</h2>  <ul>    <li><strong>关键词包含 proxy、切换配置</strong>：说明当前软件版本不兼容，请在本官网文档更新或更换版本。</li>    <li><strong>包含 `get...EOF` 报错</strong>：请访问官网重新复制订阅链接进行导入。注意关闭其他 VPN，尝试切换 Wi-Fi 或流量，或重启设备。也可将订阅链接复制到浏览器打开后，再次导入。</li>    <li><strong>关键词包含 error sending、远程主机、连接被关闭</strong>：关闭代理软件的代理设置，断开网络并重新连接。若无效，请清空软件的代理设置，并重启设备。</li>    <li><strong>网络问题相关导入报错</strong>：尝试使用订阅转换工具：(https://sub.2c.lol/)（一般不推荐）</li>  </ul>  <h2>2. 大量节点无法正常使用</h2>  <ul>    <li>首先尝试更新订阅或参考官网教程重新导入获取最新节点信息。</li>    <li><strong>常见软件更新订阅步骤：</strong></li>    <ul>      <li>Clash for Android：打开 Clash → 配置 → 点击右上角的刷新按钮</li>      <li>Clash for Windows：打开 Clash → 配置 → 右上角点击更新全部</li>      <li>ClashX：点击拓展坞图标 → 配置 → 托管配置 → 更新</li>      <li>Shadowrocket：打开小火箭 → 点击右下角设置 → 订阅 → 勾选「打开时更新」和「后台更新」</li>      <li>v2rayN：打开软件 → 点击左上角更新 → 更新订阅</li>      <li>v2rayNG：打开软件 → 点击右上角三个点 → 更新订阅</li>    </ul>    <li>若更新无效，可尝试：重启设备、路由器、光猫或切换 Wi-Fi 和流量。</li>    <li>如果仍无法解决，请尝试订阅转换，或联系官网工单获取帮助。</li>  </ul>  <h2>3. 付款完毕后订单仍显示待支付</h2>  <ul>    <li>支付成功但显示未支付时，请耐心等待到账，可能存在延迟。</li>    <li>如果长时间未到账，请不要关闭订单，并联系官网客服反馈。</li>  </ul>  <h2>4. 关于不限时套餐</h2>  <ul>    <li>不限时套餐不可叠加流量，重复购买会顶掉之前的订阅 后果自负。</li>  </ul>  <h2>5. 佣金到账时间</h2>  <ul>    <li>佣金会秒到账，并且仅能在官网个人中心用于消费。</li>  </ul>  <h2>6. 电脑如何关闭代理</h2>  <ul>    <li>请根据需要在代理软件设置中关闭相关代理模式，或直接关闭系统代理设置。</li>  </ul>  <h2>7. 关于延迟</h2>  <ul>    <li>延迟仅供参考，并不代表实际速度。得出这个数值是多方便综合 并非线路本身</li>  </ul>  <h2>8. 电脑端 Clash 开机无网络</h2>  <ul>    <li>请关闭 Clash 设置中的「系统代理」，然后重启电脑。</li>    <li>确保下次关机前先关闭系统代理设置，或者启用开机自启动。</li>    <li>如果仍无法连接，请尝试在系统网络设置中清空手动代理设置。</li>  </ul>  <h2>9. 支付方式无法使用</h2>  <ul>    <li>尝试重新下单或使用其他支付方式，如果依然无法支付，联系客服手动开通。</li>  </ul>  <h2>10. 部分网站/服务无法使用</h2>  <ul>    <li>可能是网站限制了访问区域，或节点限制了某些服务（如禁止访问极端内容或磁力下载）。</li>    <li>将加速器模式 改成代理 / 全局 再试</li>    <li>还不行的话请自行查找解决方法，或联系官网客服。</li>  </ul>  <h2>11. 退款问题</h2>  <ul>    <li>由于商品性质，特殊商品无法提供退换服务，请在购买前谨慎考虑。</li>  </ul>  <h2>12. 工单问题</h2>  <ul>    <li>工单回复时间不定，请耐心等待，并提供清晰的问题描述，避免情绪化表达。</li>    <li>问题描述不清晰时可能得不到满意答复，严重时会封禁账号。</li>  </ul>  <h2>13. 代理软件下载问题</h2>  <ul>    <li>GitHub 下载速度缓慢正常，可以使用已连接代理的设备下载并转移安装文件。</li>  </ul>  <h2>14. 优惠问题</h2>  <ul>    <li>优惠不可强求，错过时无法补差或退款，请避免对此提出要求。</li>  </ul>  <h2>15. Linux及路由器教程问题</h2>  <ul>    <li>请通过网上搜索相关教程解决使用问题，或参考其他论坛及社区。</li>  </ul>  <h2>16. IP属地无法更改问题</h2>  <ul>    <li>某些应用（如 TikTok）有特殊的 IP 属地检测方式，无法更改时请勿强求。</li>  </ul>  <h2>17. TikTok 使用问题</h2>  <ul>    <li>TikTok 会限制国内运营商，建议尝试更换 SIM 卡，使用破解版，或使用网页版。</li>      <ul>    <li><a href="https://cdn.fny6.top/productinfo-76.html" style="  display: block;  width: fit-content;  margin: px auto;  padding: 10px 20px;  background-color:rgb(3, 1, 10);  color: #ffffff;  text-decoration: none;  border-radius: 8px;  font-weight: bold;  text-align: center;">免拔卡TikTok👉点击下载👈</a><li>网页版TikTok：➡️ <a href="https://tiktok.com">点击前往</a></li>  </ul>  <h2>18. 续费与重置问题</h2>  <ul>    <li>重置流量包和续费不同，重置仅在流量大于 80% 时有效，且清空当前周期流量。</li>    <li>续费仅延长有效期，不会清空当前流量。</li>  </ul>    <h2>19. 大量扣费问题</h2>  <ul>    <li>请检查流量明细，若有可疑流量记录，请重置订阅链接以防泄露。</li>    <li>若扣费异常，请检查代理软件设置，避免因分流问题导致的无端扣费。</li>  </ul><script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="9196dd5e-20d3-4a1a-9244-3cc3d7df4268";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>]]></content>
-      
-      
-      <categories>
-          
-          <category> 常见问题 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 常见问题及解决方法 </tag>
             
         </tags>
       
